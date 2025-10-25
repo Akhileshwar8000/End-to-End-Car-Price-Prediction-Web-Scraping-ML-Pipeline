@@ -1,0 +1,11 @@
+requests
+beautifulsoup4~=4.14.2
+selenium~=4.36.0
+pandas~=2.3.3
+scikit-learn~=1.7.2
+xgboost~=3.0.5
+matplotlib~=3.10.7
+seaborn~=0.13.2
+
+numpy~=2.3.3
+joblib~=1.5.2
